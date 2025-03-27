@@ -1,0 +1,14 @@
+C:\Users\Zorya\Desktop\.Net\C#\A2\Rotations\bin\Debug\net8.0\Rotations.exe
+C:\Users\Zorya\Desktop\.Net\C#\A2\Rotations\bin\Debug\net8.0\Rotations.deps.json
+C:\Users\Zorya\Desktop\.Net\C#\A2\Rotations\bin\Debug\net8.0\Rotations.runtimeconfig.json
+C:\Users\Zorya\Desktop\.Net\C#\A2\Rotations\bin\Debug\net8.0\Rotations.dll
+C:\Users\Zorya\Desktop\.Net\C#\A2\Rotations\bin\Debug\net8.0\Rotations.pdb
+C:\Users\Zorya\Desktop\.Net\C#\A2\Rotations\obj\Debug\net8.0\Rotations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zorya\Desktop\.Net\C#\A2\Rotations\obj\Debug\net8.0\Rotations.AssemblyInfoInputs.cache
+C:\Users\Zorya\Desktop\.Net\C#\A2\Rotations\obj\Debug\net8.0\Rotations.AssemblyInfo.cs
+C:\Users\Zorya\Desktop\.Net\C#\A2\Rotations\obj\Debug\net8.0\Rotations.csproj.CoreCompileInputs.cache
+C:\Users\Zorya\Desktop\.Net\C#\A2\Rotations\obj\Debug\net8.0\Rotations.dll
+C:\Users\Zorya\Desktop\.Net\C#\A2\Rotations\obj\Debug\net8.0\refint\Rotations.dll
+C:\Users\Zorya\Desktop\.Net\C#\A2\Rotations\obj\Debug\net8.0\Rotations.pdb
+C:\Users\Zorya\Desktop\.Net\C#\A2\Rotations\obj\Debug\net8.0\Rotations.genruntimeconfig.cache
+C:\Users\Zorya\Desktop\.Net\C#\A2\Rotations\obj\Debug\net8.0\ref\Rotations.dll

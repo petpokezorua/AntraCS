@@ -1,0 +1,14 @@
+C:\Users\Zorya\Desktop\.Net\C#\A2\CopyArray\bin\Debug\net8.0\CopyArray.exe
+C:\Users\Zorya\Desktop\.Net\C#\A2\CopyArray\bin\Debug\net8.0\CopyArray.deps.json
+C:\Users\Zorya\Desktop\.Net\C#\A2\CopyArray\bin\Debug\net8.0\CopyArray.runtimeconfig.json
+C:\Users\Zorya\Desktop\.Net\C#\A2\CopyArray\bin\Debug\net8.0\CopyArray.dll
+C:\Users\Zorya\Desktop\.Net\C#\A2\CopyArray\bin\Debug\net8.0\CopyArray.pdb
+C:\Users\Zorya\Desktop\.Net\C#\A2\CopyArray\obj\Debug\net8.0\CopyArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zorya\Desktop\.Net\C#\A2\CopyArray\obj\Debug\net8.0\CopyArray.AssemblyInfoInputs.cache
+C:\Users\Zorya\Desktop\.Net\C#\A2\CopyArray\obj\Debug\net8.0\CopyArray.AssemblyInfo.cs
+C:\Users\Zorya\Desktop\.Net\C#\A2\CopyArray\obj\Debug\net8.0\CopyArray.csproj.CoreCompileInputs.cache
+C:\Users\Zorya\Desktop\.Net\C#\A2\CopyArray\obj\Debug\net8.0\CopyArray.dll
+C:\Users\Zorya\Desktop\.Net\C#\A2\CopyArray\obj\Debug\net8.0\refint\CopyArray.dll
+C:\Users\Zorya\Desktop\.Net\C#\A2\CopyArray\obj\Debug\net8.0\CopyArray.pdb
+C:\Users\Zorya\Desktop\.Net\C#\A2\CopyArray\obj\Debug\net8.0\CopyArray.genruntimeconfig.cache
+C:\Users\Zorya\Desktop\.Net\C#\A2\CopyArray\obj\Debug\net8.0\ref\CopyArray.dll

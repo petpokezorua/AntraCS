@@ -1,0 +1,14 @@
+C:\Users\Zorya\Desktop\.Net\C#\A2\frequency\bin\Debug\net8.0\frequency.exe
+C:\Users\Zorya\Desktop\.Net\C#\A2\frequency\bin\Debug\net8.0\frequency.deps.json
+C:\Users\Zorya\Desktop\.Net\C#\A2\frequency\bin\Debug\net8.0\frequency.runtimeconfig.json
+C:\Users\Zorya\Desktop\.Net\C#\A2\frequency\bin\Debug\net8.0\frequency.dll
+C:\Users\Zorya\Desktop\.Net\C#\A2\frequency\bin\Debug\net8.0\frequency.pdb
+C:\Users\Zorya\Desktop\.Net\C#\A2\frequency\obj\Debug\net8.0\frequency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zorya\Desktop\.Net\C#\A2\frequency\obj\Debug\net8.0\frequency.AssemblyInfoInputs.cache
+C:\Users\Zorya\Desktop\.Net\C#\A2\frequency\obj\Debug\net8.0\frequency.AssemblyInfo.cs
+C:\Users\Zorya\Desktop\.Net\C#\A2\frequency\obj\Debug\net8.0\frequency.csproj.CoreCompileInputs.cache
+C:\Users\Zorya\Desktop\.Net\C#\A2\frequency\obj\Debug\net8.0\frequency.dll
+C:\Users\Zorya\Desktop\.Net\C#\A2\frequency\obj\Debug\net8.0\refint\frequency.dll
+C:\Users\Zorya\Desktop\.Net\C#\A2\frequency\obj\Debug\net8.0\frequency.pdb
+C:\Users\Zorya\Desktop\.Net\C#\A2\frequency\obj\Debug\net8.0\frequency.genruntimeconfig.cache
+C:\Users\Zorya\Desktop\.Net\C#\A2\frequency\obj\Debug\net8.0\ref\frequency.dll

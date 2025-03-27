@@ -1,0 +1,14 @@
+C:\Users\Zorya\Desktop\.Net\C#\A2\ReverseLetters\bin\Debug\net8.0\ReverseLetters.exe
+C:\Users\Zorya\Desktop\.Net\C#\A2\ReverseLetters\bin\Debug\net8.0\ReverseLetters.deps.json
+C:\Users\Zorya\Desktop\.Net\C#\A2\ReverseLetters\bin\Debug\net8.0\ReverseLetters.runtimeconfig.json
+C:\Users\Zorya\Desktop\.Net\C#\A2\ReverseLetters\bin\Debug\net8.0\ReverseLetters.dll
+C:\Users\Zorya\Desktop\.Net\C#\A2\ReverseLetters\bin\Debug\net8.0\ReverseLetters.pdb
+C:\Users\Zorya\Desktop\.Net\C#\A2\ReverseLetters\obj\Debug\net8.0\ReverseLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zorya\Desktop\.Net\C#\A2\ReverseLetters\obj\Debug\net8.0\ReverseLetters.AssemblyInfoInputs.cache
+C:\Users\Zorya\Desktop\.Net\C#\A2\ReverseLetters\obj\Debug\net8.0\ReverseLetters.AssemblyInfo.cs
+C:\Users\Zorya\Desktop\.Net\C#\A2\ReverseLetters\obj\Debug\net8.0\ReverseLetters.csproj.CoreCompileInputs.cache
+C:\Users\Zorya\Desktop\.Net\C#\A2\ReverseLetters\obj\Debug\net8.0\ReverseLetters.dll
+C:\Users\Zorya\Desktop\.Net\C#\A2\ReverseLetters\obj\Debug\net8.0\refint\ReverseLetters.dll
+C:\Users\Zorya\Desktop\.Net\C#\A2\ReverseLetters\obj\Debug\net8.0\ReverseLetters.pdb
+C:\Users\Zorya\Desktop\.Net\C#\A2\ReverseLetters\obj\Debug\net8.0\ReverseLetters.genruntimeconfig.cache
+C:\Users\Zorya\Desktop\.Net\C#\A2\ReverseLetters\obj\Debug\net8.0\ref\ReverseLetters.dll

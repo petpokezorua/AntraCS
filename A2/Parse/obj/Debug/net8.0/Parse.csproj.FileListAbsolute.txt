@@ -1,0 +1,14 @@
+C:\Users\Zorya\Desktop\.Net\C#\A2\Parse\obj\Debug\net8.0\Parse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zorya\Desktop\.Net\C#\A2\Parse\obj\Debug\net8.0\Parse.AssemblyInfoInputs.cache
+C:\Users\Zorya\Desktop\.Net\C#\A2\Parse\obj\Debug\net8.0\Parse.AssemblyInfo.cs
+C:\Users\Zorya\Desktop\.Net\C#\A2\Parse\obj\Debug\net8.0\Parse.csproj.CoreCompileInputs.cache
+C:\Users\Zorya\Desktop\.Net\C#\A2\Parse\bin\Debug\net8.0\Parse.exe
+C:\Users\Zorya\Desktop\.Net\C#\A2\Parse\bin\Debug\net8.0\Parse.deps.json
+C:\Users\Zorya\Desktop\.Net\C#\A2\Parse\bin\Debug\net8.0\Parse.runtimeconfig.json
+C:\Users\Zorya\Desktop\.Net\C#\A2\Parse\bin\Debug\net8.0\Parse.dll
+C:\Users\Zorya\Desktop\.Net\C#\A2\Parse\bin\Debug\net8.0\Parse.pdb
+C:\Users\Zorya\Desktop\.Net\C#\A2\Parse\obj\Debug\net8.0\Parse.dll
+C:\Users\Zorya\Desktop\.Net\C#\A2\Parse\obj\Debug\net8.0\refint\Parse.dll
+C:\Users\Zorya\Desktop\.Net\C#\A2\Parse\obj\Debug\net8.0\Parse.pdb
+C:\Users\Zorya\Desktop\.Net\C#\A2\Parse\obj\Debug\net8.0\Parse.genruntimeconfig.cache
+C:\Users\Zorya\Desktop\.Net\C#\A2\Parse\obj\Debug\net8.0\ref\Parse.dll

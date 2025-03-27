@@ -1,0 +1,14 @@
+C:\Users\Zorya\Desktop\.Net\C#\A2\palindrome\bin\Debug\net8.0\palindrome.exe
+C:\Users\Zorya\Desktop\.Net\C#\A2\palindrome\bin\Debug\net8.0\palindrome.deps.json
+C:\Users\Zorya\Desktop\.Net\C#\A2\palindrome\bin\Debug\net8.0\palindrome.runtimeconfig.json
+C:\Users\Zorya\Desktop\.Net\C#\A2\palindrome\bin\Debug\net8.0\palindrome.dll
+C:\Users\Zorya\Desktop\.Net\C#\A2\palindrome\bin\Debug\net8.0\palindrome.pdb
+C:\Users\Zorya\Desktop\.Net\C#\A2\palindrome\obj\Debug\net8.0\palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zorya\Desktop\.Net\C#\A2\palindrome\obj\Debug\net8.0\palindrome.AssemblyInfoInputs.cache
+C:\Users\Zorya\Desktop\.Net\C#\A2\palindrome\obj\Debug\net8.0\palindrome.AssemblyInfo.cs
+C:\Users\Zorya\Desktop\.Net\C#\A2\palindrome\obj\Debug\net8.0\palindrome.csproj.CoreCompileInputs.cache
+C:\Users\Zorya\Desktop\.Net\C#\A2\palindrome\obj\Debug\net8.0\palindrome.dll
+C:\Users\Zorya\Desktop\.Net\C#\A2\palindrome\obj\Debug\net8.0\refint\palindrome.dll
+C:\Users\Zorya\Desktop\.Net\C#\A2\palindrome\obj\Debug\net8.0\palindrome.pdb
+C:\Users\Zorya\Desktop\.Net\C#\A2\palindrome\obj\Debug\net8.0\palindrome.genruntimeconfig.cache
+C:\Users\Zorya\Desktop\.Net\C#\A2\palindrome\obj\Debug\net8.0\ref\palindrome.dll

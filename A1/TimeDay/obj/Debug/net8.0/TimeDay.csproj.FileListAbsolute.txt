@@ -1,0 +1,14 @@
+C:\Users\Zorya\Desktop\.Net\C#\TimeDay\bin\Debug\net8.0\TimeDay.exe
+C:\Users\Zorya\Desktop\.Net\C#\TimeDay\bin\Debug\net8.0\TimeDay.deps.json
+C:\Users\Zorya\Desktop\.Net\C#\TimeDay\bin\Debug\net8.0\TimeDay.runtimeconfig.json
+C:\Users\Zorya\Desktop\.Net\C#\TimeDay\bin\Debug\net8.0\TimeDay.dll
+C:\Users\Zorya\Desktop\.Net\C#\TimeDay\bin\Debug\net8.0\TimeDay.pdb
+C:\Users\Zorya\Desktop\.Net\C#\TimeDay\obj\Debug\net8.0\TimeDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zorya\Desktop\.Net\C#\TimeDay\obj\Debug\net8.0\TimeDay.AssemblyInfoInputs.cache
+C:\Users\Zorya\Desktop\.Net\C#\TimeDay\obj\Debug\net8.0\TimeDay.AssemblyInfo.cs
+C:\Users\Zorya\Desktop\.Net\C#\TimeDay\obj\Debug\net8.0\TimeDay.csproj.CoreCompileInputs.cache
+C:\Users\Zorya\Desktop\.Net\C#\TimeDay\obj\Debug\net8.0\TimeDay.dll
+C:\Users\Zorya\Desktop\.Net\C#\TimeDay\obj\Debug\net8.0\refint\TimeDay.dll
+C:\Users\Zorya\Desktop\.Net\C#\TimeDay\obj\Debug\net8.0\TimeDay.pdb
+C:\Users\Zorya\Desktop\.Net\C#\TimeDay\obj\Debug\net8.0\TimeDay.genruntimeconfig.cache
+C:\Users\Zorya\Desktop\.Net\C#\TimeDay\obj\Debug\net8.0\ref\TimeDay.dll

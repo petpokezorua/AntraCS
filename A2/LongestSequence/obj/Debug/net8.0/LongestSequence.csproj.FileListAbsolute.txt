@@ -1,0 +1,14 @@
+C:\Users\Zorya\Desktop\.Net\C#\A2\LongestSequence\bin\Debug\net8.0\LongestSequence.exe
+C:\Users\Zorya\Desktop\.Net\C#\A2\LongestSequence\bin\Debug\net8.0\LongestSequence.deps.json
+C:\Users\Zorya\Desktop\.Net\C#\A2\LongestSequence\bin\Debug\net8.0\LongestSequence.runtimeconfig.json
+C:\Users\Zorya\Desktop\.Net\C#\A2\LongestSequence\bin\Debug\net8.0\LongestSequence.dll
+C:\Users\Zorya\Desktop\.Net\C#\A2\LongestSequence\bin\Debug\net8.0\LongestSequence.pdb
+C:\Users\Zorya\Desktop\.Net\C#\A2\LongestSequence\obj\Debug\net8.0\LongestSequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zorya\Desktop\.Net\C#\A2\LongestSequence\obj\Debug\net8.0\LongestSequence.AssemblyInfoInputs.cache
+C:\Users\Zorya\Desktop\.Net\C#\A2\LongestSequence\obj\Debug\net8.0\LongestSequence.AssemblyInfo.cs
+C:\Users\Zorya\Desktop\.Net\C#\A2\LongestSequence\obj\Debug\net8.0\LongestSequence.csproj.CoreCompileInputs.cache
+C:\Users\Zorya\Desktop\.Net\C#\A2\LongestSequence\obj\Debug\net8.0\LongestSequence.dll
+C:\Users\Zorya\Desktop\.Net\C#\A2\LongestSequence\obj\Debug\net8.0\refint\LongestSequence.dll
+C:\Users\Zorya\Desktop\.Net\C#\A2\LongestSequence\obj\Debug\net8.0\LongestSequence.pdb
+C:\Users\Zorya\Desktop\.Net\C#\A2\LongestSequence\obj\Debug\net8.0\LongestSequence.genruntimeconfig.cache
+C:\Users\Zorya\Desktop\.Net\C#\A2\LongestSequence\obj\Debug\net8.0\ref\LongestSequence.dll

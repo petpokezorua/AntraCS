@@ -1,0 +1,14 @@
+C:\Users\Zorya\Desktop\.Net\C#\UpTo24\bin\Debug\net8.0\UpTo24.exe
+C:\Users\Zorya\Desktop\.Net\C#\UpTo24\bin\Debug\net8.0\UpTo24.deps.json
+C:\Users\Zorya\Desktop\.Net\C#\UpTo24\bin\Debug\net8.0\UpTo24.runtimeconfig.json
+C:\Users\Zorya\Desktop\.Net\C#\UpTo24\bin\Debug\net8.0\UpTo24.dll
+C:\Users\Zorya\Desktop\.Net\C#\UpTo24\bin\Debug\net8.0\UpTo24.pdb
+C:\Users\Zorya\Desktop\.Net\C#\UpTo24\obj\Debug\net8.0\UpTo24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zorya\Desktop\.Net\C#\UpTo24\obj\Debug\net8.0\UpTo24.AssemblyInfoInputs.cache
+C:\Users\Zorya\Desktop\.Net\C#\UpTo24\obj\Debug\net8.0\UpTo24.AssemblyInfo.cs
+C:\Users\Zorya\Desktop\.Net\C#\UpTo24\obj\Debug\net8.0\UpTo24.csproj.CoreCompileInputs.cache
+C:\Users\Zorya\Desktop\.Net\C#\UpTo24\obj\Debug\net8.0\UpTo24.dll
+C:\Users\Zorya\Desktop\.Net\C#\UpTo24\obj\Debug\net8.0\refint\UpTo24.dll
+C:\Users\Zorya\Desktop\.Net\C#\UpTo24\obj\Debug\net8.0\UpTo24.pdb
+C:\Users\Zorya\Desktop\.Net\C#\UpTo24\obj\Debug\net8.0\UpTo24.genruntimeconfig.cache
+C:\Users\Zorya\Desktop\.Net\C#\UpTo24\obj\Debug\net8.0\ref\UpTo24.dll

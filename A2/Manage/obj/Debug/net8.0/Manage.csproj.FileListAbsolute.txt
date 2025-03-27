@@ -1,0 +1,14 @@
+C:\Users\Zorya\Desktop\.Net\C#\A2\Manage\bin\Debug\net8.0\Manage.exe
+C:\Users\Zorya\Desktop\.Net\C#\A2\Manage\bin\Debug\net8.0\Manage.deps.json
+C:\Users\Zorya\Desktop\.Net\C#\A2\Manage\bin\Debug\net8.0\Manage.runtimeconfig.json
+C:\Users\Zorya\Desktop\.Net\C#\A2\Manage\bin\Debug\net8.0\Manage.dll
+C:\Users\Zorya\Desktop\.Net\C#\A2\Manage\bin\Debug\net8.0\Manage.pdb
+C:\Users\Zorya\Desktop\.Net\C#\A2\Manage\obj\Debug\net8.0\Manage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zorya\Desktop\.Net\C#\A2\Manage\obj\Debug\net8.0\Manage.AssemblyInfoInputs.cache
+C:\Users\Zorya\Desktop\.Net\C#\A2\Manage\obj\Debug\net8.0\Manage.AssemblyInfo.cs
+C:\Users\Zorya\Desktop\.Net\C#\A2\Manage\obj\Debug\net8.0\Manage.csproj.CoreCompileInputs.cache
+C:\Users\Zorya\Desktop\.Net\C#\A2\Manage\obj\Debug\net8.0\Manage.dll
+C:\Users\Zorya\Desktop\.Net\C#\A2\Manage\obj\Debug\net8.0\refint\Manage.dll
+C:\Users\Zorya\Desktop\.Net\C#\A2\Manage\obj\Debug\net8.0\Manage.pdb
+C:\Users\Zorya\Desktop\.Net\C#\A2\Manage\obj\Debug\net8.0\Manage.genruntimeconfig.cache
+C:\Users\Zorya\Desktop\.Net\C#\A2\Manage\obj\Debug\net8.0\ref\Manage.dll
