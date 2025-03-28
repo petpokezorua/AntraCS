@@ -1,0 +1,15 @@
+C:\Users\Zorya\Desktop\.Net\C#\A3\OOP1To6\bin\Debug\net8.0\OOP1To6.exe
+C:\Users\Zorya\Desktop\.Net\C#\A3\OOP1To6\bin\Debug\net8.0\OOP1To6.deps.json
+C:\Users\Zorya\Desktop\.Net\C#\A3\OOP1To6\bin\Debug\net8.0\OOP1To6.runtimeconfig.json
+C:\Users\Zorya\Desktop\.Net\C#\A3\OOP1To6\bin\Debug\net8.0\OOP1To6.dll
+C:\Users\Zorya\Desktop\.Net\C#\A3\OOP1To6\bin\Debug\net8.0\OOP1To6.pdb
+C:\Users\Zorya\Desktop\.Net\C#\A3\OOP1To6\obj\Debug\net8.0\OOP1To6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zorya\Desktop\.Net\C#\A3\OOP1To6\obj\Debug\net8.0\OOP1To6.AssemblyInfoInputs.cache
+C:\Users\Zorya\Desktop\.Net\C#\A3\OOP1To6\obj\Debug\net8.0\OOP1To6.AssemblyInfo.cs
+C:\Users\Zorya\Desktop\.Net\C#\A3\OOP1To6\obj\Debug\net8.0\OOP1To6.csproj.CoreCompileInputs.cache
+C:\Users\Zorya\Desktop\.Net\C#\A3\OOP1To6\obj\Debug\net8.0\OOP1To6.sourcelink.json
+C:\Users\Zorya\Desktop\.Net\C#\A3\OOP1To6\obj\Debug\net8.0\OOP1To6.dll
+C:\Users\Zorya\Desktop\.Net\C#\A3\OOP1To6\obj\Debug\net8.0\refint\OOP1To6.dll
+C:\Users\Zorya\Desktop\.Net\C#\A3\OOP1To6\obj\Debug\net8.0\OOP1To6.pdb
+C:\Users\Zorya\Desktop\.Net\C#\A3\OOP1To6\obj\Debug\net8.0\OOP1To6.genruntimeconfig.cache
+C:\Users\Zorya\Desktop\.Net\C#\A3\OOP1To6\obj\Debug\net8.0\ref\OOP1To6.dll

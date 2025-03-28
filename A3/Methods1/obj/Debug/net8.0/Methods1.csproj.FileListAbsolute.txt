@@ -1,0 +1,15 @@
+C:\Users\Zorya\Desktop\.Net\C#\A3\Methods1\bin\Debug\net8.0\Methods1.exe
+C:\Users\Zorya\Desktop\.Net\C#\A3\Methods1\bin\Debug\net8.0\Methods1.deps.json
+C:\Users\Zorya\Desktop\.Net\C#\A3\Methods1\bin\Debug\net8.0\Methods1.runtimeconfig.json
+C:\Users\Zorya\Desktop\.Net\C#\A3\Methods1\bin\Debug\net8.0\Methods1.dll
+C:\Users\Zorya\Desktop\.Net\C#\A3\Methods1\bin\Debug\net8.0\Methods1.pdb
+C:\Users\Zorya\Desktop\.Net\C#\A3\Methods1\obj\Debug\net8.0\Methods1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zorya\Desktop\.Net\C#\A3\Methods1\obj\Debug\net8.0\Methods1.AssemblyInfoInputs.cache
+C:\Users\Zorya\Desktop\.Net\C#\A3\Methods1\obj\Debug\net8.0\Methods1.AssemblyInfo.cs
+C:\Users\Zorya\Desktop\.Net\C#\A3\Methods1\obj\Debug\net8.0\Methods1.csproj.CoreCompileInputs.cache
+C:\Users\Zorya\Desktop\.Net\C#\A3\Methods1\obj\Debug\net8.0\Methods1.sourcelink.json
+C:\Users\Zorya\Desktop\.Net\C#\A3\Methods1\obj\Debug\net8.0\Methods1.dll
+C:\Users\Zorya\Desktop\.Net\C#\A3\Methods1\obj\Debug\net8.0\refint\Methods1.dll
+C:\Users\Zorya\Desktop\.Net\C#\A3\Methods1\obj\Debug\net8.0\Methods1.pdb
+C:\Users\Zorya\Desktop\.Net\C#\A3\Methods1\obj\Debug\net8.0\Methods1.genruntimeconfig.cache
+C:\Users\Zorya\Desktop\.Net\C#\A3\Methods1\obj\Debug\net8.0\ref\Methods1.dll
