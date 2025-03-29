@@ -1,0 +1,15 @@
+C:\Users\Zorya\Desktop\.Net\C#\A4\Generics2\bin\Debug\net8.0\Generics2.exe
+C:\Users\Zorya\Desktop\.Net\C#\A4\Generics2\bin\Debug\net8.0\Generics2.deps.json
+C:\Users\Zorya\Desktop\.Net\C#\A4\Generics2\bin\Debug\net8.0\Generics2.runtimeconfig.json
+C:\Users\Zorya\Desktop\.Net\C#\A4\Generics2\bin\Debug\net8.0\Generics2.dll
+C:\Users\Zorya\Desktop\.Net\C#\A4\Generics2\bin\Debug\net8.0\Generics2.pdb
+C:\Users\Zorya\Desktop\.Net\C#\A4\Generics2\obj\Debug\net8.0\Generics2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zorya\Desktop\.Net\C#\A4\Generics2\obj\Debug\net8.0\Generics2.AssemblyInfoInputs.cache
+C:\Users\Zorya\Desktop\.Net\C#\A4\Generics2\obj\Debug\net8.0\Generics2.AssemblyInfo.cs
+C:\Users\Zorya\Desktop\.Net\C#\A4\Generics2\obj\Debug\net8.0\Generics2.csproj.CoreCompileInputs.cache
+C:\Users\Zorya\Desktop\.Net\C#\A4\Generics2\obj\Debug\net8.0\Generics2.sourcelink.json
+C:\Users\Zorya\Desktop\.Net\C#\A4\Generics2\obj\Debug\net8.0\Generics2.dll
+C:\Users\Zorya\Desktop\.Net\C#\A4\Generics2\obj\Debug\net8.0\refint\Generics2.dll
+C:\Users\Zorya\Desktop\.Net\C#\A4\Generics2\obj\Debug\net8.0\Generics2.pdb
+C:\Users\Zorya\Desktop\.Net\C#\A4\Generics2\obj\Debug\net8.0\Generics2.genruntimeconfig.cache
+C:\Users\Zorya\Desktop\.Net\C#\A4\Generics2\obj\Debug\net8.0\ref\Generics2.dll
